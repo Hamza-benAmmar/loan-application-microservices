@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "55",
+      "name": "hamza",
+      "loan_applications": [
+        {
+          "id": "836dfe3f-0537-4fd2-9845-631351b79bd0",
+          "amount": "1000",
+          "score1": 10,
+          "score2": 6,
+          "final_score": 1.6,
+          "result": "Approved"
+        }
+      ]
+    }
+  ]
+}
